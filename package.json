@@ -1,0 +1,26 @@
+{
+  "name": "webpack-frontend-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisuke2549/webpack-frontend-development.git"
+  },
+  "author": "daisuke sasaki",
+  "license": "UNLICENSED",
+  "private": "true",
+  "bugs": {
+    "url": "https://github.com/daisuke2549/webpack-frontend-development/issues"
+  },
+  "homepage": "https://github.com/daisuke2549/webpack-frontend-development#readme",
+  "dependencies": {
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
